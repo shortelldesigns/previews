@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="logo" width="200" height="200" viewBox="0 0 100 100" role="img" aria-label="La Fonda logo concept">
+<path d="M18 94V46a32 32 0 0 1 64 0v48z" fill="#b8432a"/>
+<path d="M27 94V48a23 23 0 0 1 46 0v46z" fill="#fbf3e6"/>
+<g stroke="#f2a93b" stroke-width="3" stroke-linecap="round"><path d="M50 58V40"/><path d="M50 58 37 45"/><path d="M50 58 63 45"/><path d="M50 58 31 56"/><path d="M50 58 69 56"/></g>
+<path d="M36 70a14 14 0 0 1 28 0z" fill="#f2a93b"/>
+<path d="M27 70h46v24H27z" fill="#173f35"/>
+<g fill="#fbf3e6"><path d="M31 76h6v6h-6zM41 76h6v6h-6zM53 76h6v6h-6zM63 76h6v6h-6z" opacity=".9"/><path d="M36 86h6v6h-6zM58 86h6v6h-6zM47 86h6v6h-6z" opacity=".55"/></g>
+<g fill="#fbf3e6"><circle cx="50" cy="7" r="3"/><circle cx="38" cy="10" r="2.2"/><circle cx="62" cy="10" r="2.2"/></g>
+</svg>

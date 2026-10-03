@@ -1,0 +1,16 @@
+Image credits for the The Hair District preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, its food, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/hero-*.webp: photo by Giorgio Trovato (https://unsplash.com/@giorgiotrovato) - source: https://unsplash.com/photos/black-and-silver-office-rolling-chair-beside-mirror-gI9rvJK61L8 (Unsplash's own title: "Black and silver office rolling chair beside mirror")
+- img/color-*.webp: photo by Jessie Dee Dabrowski www.jessiedee.net (https://unsplash.com/@jessiedeexx) - source: https://unsplash.com/photos/person-wearing-black-top-W6cwaL7PMSw (Unsplash's own title: "Person wearing black top")
+- img/styling-*.webp: photo by Baylee Gramling (https://unsplash.com/@bayleejadegramling) - source: https://unsplash.com/photos/person-holding-gray-hair-curler-MMz03PyCOZg (Unsplash's own title: "Person holding gray hair curler")
+- img/nails-*.webp: photo by Margarita Yutsaytis (https://unsplash.com/@marsnails) - source: https://unsplash.com/photos/womans-hand-with-blue-and-white-ombre-nails-olHWqqK7OVw (Unsplash's own title: "Woman's hand with blue and white ombre nails")
+- img/lashes-*.webp: photo by Aleks (https://unsplash.com/@aaaarupar) - source: https://unsplash.com/photos/woman-left-eye-Wude2F3CMss (Unsplash's own title: "Woman left eye")
+- img/cut-*.webp: photo by Farhad Ibrahimzade (https://unsplash.com/@ferhadd) - source: https://unsplash.com/photos/a-woman-cutting-another-womans-hair-with-scissors-V2HDOQTJh3o (Unsplash's own title: "A woman cutting another woman's hair with scissors")
+- img/space-*.webp: photo by Daniel (https://unsplash.com/@unsplashbydan) - source: https://unsplash.com/photos/a-room-with-a-chair-sink-and-a-plant-in-it-Ui6DZ9A1eXU (Unsplash's own title: "A room with a chair, sink and a plant in it")
+
+Logo: original 'logo concept' SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).

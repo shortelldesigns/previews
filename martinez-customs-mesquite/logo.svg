@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="logo" width="200" height="200" viewBox="0 0 100 100" role="img" aria-label="Martinez Customs logo concept">
+<defs><linearGradient id="mc-chr" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f4f5f7"/><stop offset=".48" stop-color="#9aa0a8"/><stop offset=".52" stop-color="#5d636b"/><stop offset="1" stop-color="#d9dce0"/></linearGradient>
+<linearGradient id="mc-red" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff3b2f"/><stop offset="1" stop-color="#9e0d0b"/></linearGradient></defs>
+<path d="M50 4 94 28v44L50 96 6 72V28z" fill="#0c0c0d" stroke="url(#mc-chr)" stroke-width="4"/>
+<path d="M50 13 86 33v34L50 87 14 67V33z" fill="none" stroke="#e1251b" stroke-width="1.4"/>
+<g transform="skewX(-12) translate(10 0)"><path d="M22 66V34h9l9 15 9-15h9v32h-8V48l-10 15-10-15v18z" fill="url(#mc-chr)"/>
+<path d="M78 41c-2-4-6-6-10-6-8 0-12 6-12 15s4 16 12 16c4 0 8-2 10-6l-6-4c-1 2-2 3-4 3-3 0-5-3-5-9s2-8 5-8c2 0 3 1 4 3z" fill="url(#mc-red)"/></g>
+<path d="M18 76c14 6 30 7 46 1 6-2 12-6 16-11" fill="none" stroke="#e1251b" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M80 66l3-4-5 1z" fill="#e1251b"/>
+</svg>

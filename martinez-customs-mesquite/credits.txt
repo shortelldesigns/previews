@@ -1,0 +1,16 @@
+Image credits for the Martinez Customs preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, its food, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/hero-*.webp: photo by Nathan Mendes (https://unsplash.com/@nathanmendes) - source: https://unsplash.com/photos/black-and-red-bmw-m-3-coupe-m5kI3Rq06v8 (Unsplash's own title: "Black and red bmw m 3 coupe")
+- img/candy-*.webp: photo by Sindy Süßengut (https://unsplash.com/@sindy_suessengut) - source: https://unsplash.com/photos/a-close-up-of-the-front-end-of-a-classic-car-33Me56HyM_8 (Unsplash's own title: "A close up of the front end of a classic car")
+- img/paint-*.webp: photo by Dylan Calluy (https://unsplash.com/@dylancalluy) - source: https://unsplash.com/photos/a-doctor-looking-at-a-patient-yX0D2Iihluc (Unsplash's own title: "A doctor looking at a patient")
+- img/masking-*.webp: photo by Clarity Coat (https://unsplash.com/@claritycoat) - source: https://unsplash.com/photos/a-person-using-a-pair-of-scissors-to-cut-a-piece-of-paper-fYDCMIQ4p_g (Unsplash's own title: "A person using a pair of scissors to cut a piece of paper")
+- img/engine-*.webp: photo by Tim Mossholder (https://unsplash.com/@timmossholder) - source: https://unsplash.com/photos/close-up-photography-of-vehicle-engine-7jbs8DuQ4vc (Unsplash's own title: "Close-up photography of vehicle engine")
+- img/hotrod-*.webp: photo by Robin Edqvist (https://unsplash.com/@romavest) - source: https://unsplash.com/photos/a-red-car-with-a-logo-on-it-zaLG8O_5W_M (Unsplash's own title: "A red car with a logo on it")
+- img/classic-*.webp: photo by Alina Rubo (https://unsplash.com/@lubitglazami) - source: https://unsplash.com/photos/red-and-white-car-in-a-parking-lot-E5QUCsvmCrs (Unsplash's own title: "Red and white car in a parking lot")
+
+Logo: original 'logo concept' SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).

@@ -1,0 +1,16 @@
+Image credits for the The Inside Scoop preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, its food, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/hero-*.webp: photo by Chris Boland (https://unsplash.com/@londonweddingphotographer) - source: https://unsplash.com/photos/a-cup-of-ice-cream-with-a-cherry-on-top-V9SxgOF-G9Y (Unsplash's own title: "A cup of ice cream with a cherry on top")
+- img/burger-*.webp: photo by Mike (https://unsplash.com/@omaha) - source: https://unsplash.com/photos/burger-with-lettuce-and-fries-PxJ9zkM2wdA (Unsplash's own title: "Burger with lettuce and fries")
+- img/steak-*.webp: photo by Marcelo de la Torre (https://unsplash.com/@marcelodlt) - source: https://unsplash.com/photos/a-steak-on-a-plate-with-a-fork-and-knife-BuWKiCGY33w (Unsplash's own title: "A steak on a plate with a fork and knife")
+- img/sundae-*.webp: photo by Molly Keesling (https://unsplash.com/@mollysuek) - source: https://unsplash.com/photos/a-plate-of-food-7YhrOw6Kngo (Unsplash's own title: "A plate of food")
+- img/bananasplit-*.webp: photo by Eiliv Aceron (https://unsplash.com/@shootdelicious) - source: https://unsplash.com/photos/strawberry-and-banana-on-white-ceramic-plate-j2gsKZrQOms (Unsplash's own title: "Strawberry and banana on white ceramic plate")
+- img/shake-*.webp: photo by Jonathan Borba (https://unsplash.com/@jonathanborba) - source: https://unsplash.com/photos/full-filled-cream-glass-on-table-7TeR1A1MUpM (Unsplash's own title: "Full-filled cream glass on table")
+- img/malt-*.webp: photo by Melody Zimmerman (https://unsplash.com/@prairiepilgrim) - source: https://unsplash.com/photos/a-glass-of-ice-cream-topped-with-chocolate-and-marshmallows-lNucH3OumtI (Unsplash's own title: "A glass of ice cream topped with chocolate and marshmallows")
+
+Logo: original 'logo concept' SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="logo" width="200" height="200" viewBox="0 0 100 100" role="img" aria-label="The Hair District logo concept">
+<path d="M18 94V44a32 32 0 0 1 64 0v50" fill="none" stroke="#2b211d" stroke-width="2.2"/>
+<path d="M25 94V45a25 25 0 0 1 50 0v49" fill="none" stroke="#b8925a" stroke-width="1"/>
+<text x="50" y="72" text-anchor="middle" font-family="'Cormorant Garamond',Georgia,serif" font-style="italic" font-weight="500" font-size="40" fill="#2b211d" letter-spacing="-2">hd</text>
+<path d="M50 20l2 6 6 2-6 2-2 6-2-6-6-2 6-2z" fill="#b8925a"/>
+<path d="M10 94h80" stroke="#2b211d" stroke-width="2.2"/>
+</svg>
