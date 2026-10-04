@@ -1,0 +1,17 @@
+Image credits for the The Beauty Shop preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, its food, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/hero-*.webp: photo by Nathon Oski (https://unsplash.com/@onatecan) - source: https://unsplash.com/photos/black-leather-barber-chair-near-brown-brick-wall-EW_rqoSdDes (Unsplash's own title: "Black leather barber chair near brown brick wall")
+- img/color-*.webp: photo by Ramón Benitez (https://unsplash.com/@acareimon) - source: https://unsplash.com/photos/a-woman-is-getting-her-hair-done-in-a-salon-wkWTdIwJemY (Unsplash's own title: "A woman is getting her hair done in a salon")
+- img/nails-*.webp: photo by Bryony Elena (https://unsplash.com/@b_elena) - source: https://unsplash.com/photos/hand-with-black-and-tortoiseshell-nails-tXwBDZS2JxQ (Unsplash's own title: "Hand with black and tortoiseshell nails")
+- img/rollers-*.webp: photo by Alistair Cowin (https://unsplash.com/@alistaircowin) - source: https://unsplash.com/photos/woman-with-red-and-blue-hair-clip-5zxbyTVB17A (Unsplash's own title: "Woman with red and blue hair clip")
+- img/tools-*.webp: photo by František Čaník (https://unsplash.com/@snipi) - source: https://unsplash.com/photos/a-wooden-table-topped-with-lots-of-different-types-of-scissors-Xb_6OTCCnXo (Unsplash's own title: "A wooden table topped with lots of different types of scissors")
+- img/chair-*.webp: photo by Kelly Sikkema (https://unsplash.com/@kellysikkema) - source: https://unsplash.com/photos/brown-and-black-rolling-chair-beside-green-plant-Pvse_0mSm6Y (Unsplash's own title: "Brown and black rolling chair beside green plant")
+- img/salon-*.webp: photo by Greg Trowman (https://unsplash.com/@gregtrow) - source: https://unsplash.com/photos/salon-chairs-with-mirrors-and-products-jsuWg7IXx1k (Unsplash's own title: "Salon chairs with mirrors and products")
+- img/lash-*.webp: photo by Azmaan Baluch (https://unsplash.com/@azmaanbaluch) - source: https://unsplash.com/photos/persons-blue-eyes-and-brown-eyes-mYajbR9PfbM (Unsplash's own title: "Persons blue eyes and brown eyes")
+
+Logo: original 'logo concept' SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).

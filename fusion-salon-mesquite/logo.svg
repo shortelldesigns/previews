@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="logo" width="200" height="200" viewBox="0 0 100 100" role="img" aria-label="Fusion Salon &amp; Spa logo concept">
+<circle cx="40" cy="50" r="30" fill="none" stroke="#341a27" stroke-width="2"/>
+<circle cx="60" cy="50" r="30" fill="none" stroke="#c9a26b" stroke-width="2"/>
+<text x="50" y="62" text-anchor="middle" font-family="'Playfair Display',Georgia,serif" font-style="italic" font-weight="500" font-size="36" fill="#341a27">F</text>
+<path d="M50 14l1.6 4.4 4.4 1.6-4.4 1.6L50 26l-1.6-4.4L44 20l4.4-1.6z" fill="#c9a26b"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="logo" width="200" height="200" viewBox="0 0 100 100" role="img" aria-label="Overton Boat &amp; RV Storage logo concept">
+<defs><clipPath id="ob-c"><circle cx="50" cy="50" r="38"/></clipPath></defs>
+<circle cx="50" cy="50" r="46" fill="none" stroke="#f4ead8" stroke-width="2.5"/>
+<g clip-path="url(#ob-c)"><circle cx="50" cy="52" r="15" fill="#e8743b"/>
+<path d="M8 60 L24 44 L33 50 L46 36 L60 52 L70 45 L92 60 V100 H8z" fill="#f4ead8"/>
+<path d="M8 66 q7-4 14 0 t14 0 t14 0 t14 0 t14 0 t14 0 V100 H8z" fill="#2d6f8f"/>
+<path d="M8 74 q7-4 14 0 t14 0 t14 0 t14 0 t14 0 t14 0" fill="none" stroke="#f4ead8" stroke-width="1.6" opacity=".6"/></g>
+<path d="M30 84 h40" stroke="#e8743b" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

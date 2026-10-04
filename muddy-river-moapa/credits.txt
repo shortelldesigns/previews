@@ -1,0 +1,17 @@
+Image credits for the Muddy River Bar & Grill preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, its food, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/hero-*.webp: photo by Mojave Jeff (https://unsplash.com/@jwphil) - source: https://unsplash.com/photos/gray-asphalt-road-between-brown-rock-formation-under-blue-sky-during-daytime-QgixgSbzaKw (Unsplash's own title: "Gray asphalt road between brown rock formation under blue sky during daytime")
+- img/breakfast-*.webp: photo by Luke Tokaryk (https://unsplash.com/@lukelukeluke) - source: https://unsplash.com/photos/a-white-plate-topped-with-eggs-and-toast-VANvc2u1eic (Unsplash's own title: "A white plate topped with eggs and toast")
+- img/pancakes-*.webp: photo by Tatiana Rodriguez (https://unsplash.com/@tata186) - source: https://unsplash.com/photos/brown-cupcake-with-red-and-black-berries-on-top-iuKj0rRRddA (Unsplash's own title: "Brown cupcake with red and black berries on top")
+- img/burger-*.webp: photo by Mike (https://unsplash.com/@omaha) - source: https://unsplash.com/photos/burger-with-lettuce-and-fries-PxJ9zkM2wdA (Unsplash's own title: "Burger with lettuce and fries")
+- img/fries-*.webp: photo by Anton (https://unsplash.com/@uniqueton) - source: https://unsplash.com/photos/fried-food-on-white-ceramic-plate-ySRRW9FLqUU (Unsplash's own title: "Fried food on white ceramic plate")
+- img/coffee-*.webp: photo by Leo_Visions (https://unsplash.com/@leo_visions_) - source: https://unsplash.com/photos/a-white-mug-of-coffee-sits-on-a-menu-kSvDeGH_X4c (Unsplash's own title: "A white mug of coffee sits on a menu")
+- img/diner-*.webp: photo by Shawn (https://unsplash.com/@shawnanggg) - source: https://unsplash.com/photos/white-ceramic-round-plate-with-sliced-orange-fruit-mIyrfzPk-po (Unsplash's own title: "White ceramic round plate with sliced orange fruit")
+- img/road2-*.webp: photo by Tyke Jones (https://unsplash.com/@tykejones) - source: https://unsplash.com/photos/an-empty-road-in-the-middle-of-the-desert-eHT6TAnPnPQ (Unsplash's own title: "An empty road in the middle of the desert")
+
+Logo: original 'logo concept' SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).
