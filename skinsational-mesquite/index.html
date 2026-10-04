@@ -47,7 +47,8 @@ body{font-family:'DM Sans',system-ui,sans-serif;color:var(--ink);background:var(
 .brand{display:flex;align-items:center;gap:12px;text-decoration:none;color:var(--olive)}
 .brand b{display:block;font-family:'Fraunces',serif;font-weight:400;font-size:28px;line-height:1;letter-spacing:-.01em}
 .brand small{display:block;font-size:10.5px;letter-spacing:.38em;text-transform:uppercase;color:var(--mut);margin-top:6px;font-weight:500}
-.nav .links{margin-left:auto;display:flex;gap:32px;align-items:center}
+.nav .links{margin-left:auto;display:flex;gap:32px;align-items:center;background:rgba(247,243,236,.82);backdrop-filter:blur(8px);padding:6px 6px 6px 28px;border-radius:999px}
+@media (max-width:760px){.nav .links{background:none;backdrop-filter:none;padding:0}}
 .nav .links a:not(.btn){text-decoration:none;font-size:13px;letter-spacing:.18em;text-transform:uppercase;font-weight:500;color:var(--olive)}
 .nav .links a:not(.btn):hover{color:var(--clay2)}
 .btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;height:56px;padding:0 30px;border-radius:999px;font-size:13px;font-weight:500;letter-spacing:.18em;text-transform:uppercase;text-decoration:none;white-space:nowrap;transition:all .35s}
