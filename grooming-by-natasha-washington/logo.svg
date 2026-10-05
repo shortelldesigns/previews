@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="logo" width="200" height="200" viewBox="0 0 100 100" role="img" aria-label="Grooming by Natasha logo concept">
+<path d="M50 6c26 0 44 16 44 42S74 94 50 94 6 76 6 50 24 6 50 6z" fill="#f4b993"/>
+<g fill="#5f8a74"><ellipse cx="50" cy="60" rx="15" ry="13"/><ellipse cx="30" cy="44" rx="7" ry="9" transform="rotate(-18 30 44)"/><ellipse cx="42" cy="32" rx="7" ry="9.5" transform="rotate(-6 42 32)"/><ellipse cx="58" cy="32" rx="7" ry="9.5" transform="rotate(6 58 32)"/><ellipse cx="70" cy="44" rx="7" ry="9" transform="rotate(18 70 44)"/></g>
+<path d="M62 70l14 10M66 74a3 3 0 1 0 0 .1M78 66l-14 12" stroke="#2f3437" stroke-width="2.6" stroke-linecap="round" fill="none"/>
+<circle cx="80" cy="64" r="4" fill="none" stroke="#2f3437" stroke-width="2.4"/><circle cx="78" cy="82" r="4" fill="none" stroke="#2f3437" stroke-width="2.4"/>
+</svg>

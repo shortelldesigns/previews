@@ -1,0 +1,15 @@
+Image credits for the Crepe Station preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, its food, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/hero-*.webp: photo by Tim McErston (https://unsplash.com/@timmcerston) - source: https://unsplash.com/photos/a-man-making-food-in-a-restaurant-kitchen-sFkDrNh8d-Y (Unsplash's own title: "a man making food in a restaurant kitchen")
+- img/sweet-*.webp: photo by Max Griss (https://unsplash.com/@grissphoto) - source: https://unsplash.com/photos/a-pink-plate-topped-with-a-slice-of-pie-covered-in-fruit-VVKUBAeRyAI (Unsplash's own title: "a pink plate topped with a slice of pie covered in fruit")
+- img/nutella-*.webp: photo by Zyanya Citlalli (https://unsplash.com/@zonalsublime) - source: https://unsplash.com/photos/a-piece-of-cake-with-chocolate-and-strawberries-on-it-cyH3UviBKZg (Unsplash's own title: "a piece of cake with chocolate and strawberries on it")
+- img/panini-*.webp: photo by jack shingai (https://unsplash.com/@artevgen) - source: https://unsplash.com/photos/sandwich-with-vegetable-on-brown-wooden-table-hdhWH1xoYwM (Unsplash's own title: "sandwich with vegetable on brown wooden table")
+- img/tea-*.webp: photo by mediha ekici (https://unsplash.com/@mediha32) - source: https://unsplash.com/photos/several-glass-teapots-filled-with-different-teas--BjG8NyPwz0 (Unsplash's own title: "Several glass teapots filled with different teas")
+- img/patio-*.webp: photo by Leo Gilgamesh (https://unsplash.com/@leo_gilgamesh) - source: https://unsplash.com/photos/restaurant-patio-with-round-tables-U9PMIls8imM (Unsplash's own title: "Round tables and woven chairs on a restaurant patio with a metal railing")
+
+Logo: original 'logo concept' SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).

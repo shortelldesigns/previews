@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="logo" width="200" height="200" viewBox="0 0 100 100" role="img" aria-label="Norman Handyman Repair logo concept">
+<rect x="4" y="4" width="92" height="92" rx="14" fill="#ffc93c"/>
+<path d="M20 52L50 26l30 26" fill="none" stroke="#1e2b36" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M28 50v26h44V50" fill="none" stroke="#1e2b36" stroke-width="6" stroke-linejoin="round"/>
+<path d="M42 76V58h16v18" fill="#1e2b36"/>
+<path d="M60 36l10-10 6 6-10 10z" fill="#1e2b36"/>
+<text x="50" y="94" text-anchor="middle" font-family="Archivo,Arial,sans-serif" font-weight="900" font-size="9" fill="#1e2b36" letter-spacing="1">NHR</text>
+</svg>

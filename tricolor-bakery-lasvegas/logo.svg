@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="logo" width="200" height="200" viewBox="0 0 100 100" role="img" aria-label="Tricolor Bakery logo concept">
+<circle cx="50" cy="50" r="47" fill="#fff8ee" stroke="#5a3825" stroke-width="3"/>
+<path d="M18 60a32 26 0 0 1 64 0z" fill="#f4a7b9"/>
+<path d="M22 52q14-20 28-22M78 52q-14-20-28-22M30 40q20 8 40 0M36 32q14 5 28 0M50 30v28M34 44l8 14M66 44l-8 14" stroke="#fff8ee" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+<path d="M16 62h68" stroke="#5a3825" stroke-width="3" stroke-linecap="round"/>
+<g><rect x="30" y="70" width="12" height="6" rx="3" fill="#1f8a8a"/><rect x="44" y="70" width="12" height="6" rx="3" fill="#fff8ee" stroke="#5a3825" stroke-width="1.2"/><rect x="58" y="70" width="12" height="6" rx="3" fill="#d6453d"/></g>
+</svg>

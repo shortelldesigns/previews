@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="logo" width="200" height="200" viewBox="0 0 100 100" role="img" aria-label="Smokin' Blues Barbeque logo concept">
+<rect x="4" y="4" width="92" height="92" rx="20" fill="#1f1f1f" stroke="#ff6a13" stroke-width="3"/>
+<path d="M30 30c0-8 8-8 8-16M46 30c0-8 8-8 8-16M62 30c0-8 8-8 8-16" stroke="#9fb7e6" stroke-width="3.2" fill="none" stroke-linecap="round"/>
+<path d="M22 44h56l-6 30a6 6 0 0 1-6 5H34a6 6 0 0 1-6-5z" fill="#ff6a13"/>
+<path d="M28 52h44M30 60h40M32 68h36" stroke="#1f1f1f" stroke-width="3"/>
+<circle cx="50" cy="86" r="3" fill="#9fb7e6"/>
+</svg>

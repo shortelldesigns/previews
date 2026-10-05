@@ -1,0 +1,16 @@
+Image credits for the Tricolor Bakery preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, its food, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/hero-*.webp: photo by Yeh Xintong (https://unsplash.com/@blsnki) - source: https://unsplash.com/photos/breads-in-display-shelf-go3DT3PpIw4 (Unsplash's own title: "Breads in display shelf")
+- img/concha-*.webp: photo by GERARDO MR (https://unsplash.com/@geeramr) - source: https://unsplash.com/photos/white-ceramic-plate-with-brown-and-white-bread-OKVy56rFemo (Unsplash's own title: "White ceramic plate with brown and white bread")
+- img/case-*.webp: photo by Ravi Sharma (https://unsplash.com/@ravinepz) - source: https://unsplash.com/photos/people-look-at-baked-goods-in-a-bakery-NufeawDU6Qg (Unsplash's own title: "People look at baked goods in a bakery")
+- img/cake-*.webp: photo by Ivana M. (https://unsplash.com/@ivfreedom) - source: https://unsplash.com/photos/a-piece-of-cake-on-a-plate-with-raspberries-ktMYoCGWqbo (Unsplash's own title: "A piece of cake on a plate with raspberries")
+- img/empanadas-*.webp: photo by Anton (https://unsplash.com/@uniqueton) - source: https://unsplash.com/photos/brown-bread-on-gray-round-plate-kJ6myhO23PI (Unsplash's own title: "Brown bread on gray round plate")
+- img/cookies-*.webp: photo by Alexander Grey (https://unsplash.com/@sharonmccutcheon) - source: https://unsplash.com/photos/selective-focus-photography-of-baked-pastries-Qa2jBJ1VeOE (Unsplash's own title: "Selective focus photography of baked pastries")
+- img/rolls-*.webp: photo by Mariann Campos (https://unsplash.com/@pcamposperez) - source: https://unsplash.com/photos/a-couple-of-doughnuts-sitting-on-top-of-a-table-NrxrSTU7Gqs (Unsplash's own title: "A couple of doughnuts sitting on top of a table")
+
+Logo: original 'logo concept' SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).

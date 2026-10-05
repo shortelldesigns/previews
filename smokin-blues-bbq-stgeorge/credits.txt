@@ -1,0 +1,16 @@
+Image credits for the Smokin' Blues Barbeque preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, its food, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/hero-*.webp: photo by Luis Santoyo (https://unsplash.com/@shootwithlou) - source: https://unsplash.com/photos/sliced-meat-on-brown-wooden-chopping-board-IePWXTF3-0Y (Unsplash's own title: "sliced meat on brown wooden chopping board")
+- img/ribs-*.webp: photo by Brian Wegman (https://unsplash.com/@trytoscareme) - source: https://unsplash.com/photos/a-rack-of-ribs-cooking-on-a-grill-QtLYiB6P-KM (Unsplash's own title: "a rack of ribs cooking on a grill")
+- img/pulled-*.webp: photo by ALLAN LAINEZ (https://unsplash.com/@17allansfilms) - source: https://unsplash.com/photos/a-pan-of-food-xKAzIHRbI4E (Unsplash's own title: "A pan of food")
+- img/mac-*.webp: photo by Leanna Myers (https://unsplash.com/@myerslk88) - source: https://unsplash.com/photos/a-bowl-of-macaroni-and-cheese-Vkx_ZpQwQgE (Unsplash's own title: "A bowl of macaroni and cheese")
+- img/smoker-*.webp: photo by Ambitious Studio* | Rick Barrett (https://unsplash.com/@weareambitious) - source: https://unsplash.com/photos/a-large-black-tank-sitting-on-top-of-a-pile-of-wood-doVSqrC_EGc (Unsplash's own title: "A large black tank sitting on top of a pile of wood")
+- img/platter-*.webp: photo by Luis Santoyo (https://unsplash.com/@shootwithlou) - source: https://unsplash.com/photos/brown-and-white-plastic-container-on-black-and-brown-chocolate-cake-NBBkKvUnZx4 (Unsplash's own title: "Brown and white plastic container on black and brown chocolate cake")
+- img/grill-*.webp: photo by Andrik Langfield (https://unsplash.com/@andriklangfield) - source: https://unsplash.com/photos/person-grilling-sausage-and-meat-wq8xzzoj_sE (Unsplash's own title: "Person grilling sausage and meat")
+
+Logo: original 'logo concept' SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).
