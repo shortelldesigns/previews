@@ -1,0 +1,17 @@
+Image credits for the B & L Shoe & Luggage Repair preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/hero-*.webp: photo by José Ramírez (https://unsplash.com/@joseramirez) - source: https://unsplash.com/photos/assorted-hand-tools-with-unpaired-brown-work-boot-ZcKOxYveLSI (Unsplash's own title: "Assorted hand tools with unpaired brown work boot")
+- img/cases-*.webp: photo by engin akyurt (https://unsplash.com/@enginakyurt) - source: https://unsplash.com/photos/stack-of-vintage-suitcases-in-various-colors-Djd5hnEQdHU (Unsplash's own title: "Stack of vintage suitcases in various colors")
+- img/boots-*.webp: photo by Zac Wolff (https://unsplash.com/@zacwolff) - source: https://unsplash.com/photos/brown-leather-lace-up-boots-esxf7PJmExQ (Unsplash's own title: "Brown leather lace up boots")
+- img/bag-*.webp: photo by Álvaro Serrano (https://unsplash.com/@alvaroserrano) - source: https://unsplash.com/photos/brown-leather-satchel-bag-on-gray-concrete-surface-near-green-plant-at-daytime-pFLNV4gkXsc (Unsplash's own title: "Brown leather satchel bag on gray concrete surface near green plant at daytime")
+- img/polish-*.webp: photo by Lina Verovaya (https://unsplash.com/@linaverovaya) - source: https://unsplash.com/photos/hand-brushes-on-brown-plate-VU7FzBEMDUo (Unsplash's own title: "Hand brushes on brown plate")
+- img/thread-*.webp: photo by Dane Deaner (https://unsplash.com/@danedeaner) - source: https://unsplash.com/photos/closeup-photo-of-ruler-and-thread-JNpmCYZID68 (Unsplash's own title: "Closeup photo of ruler and thread")
+- img/punch-*.webp: photo by La Compagnie Robinson (https://unsplash.com/@lacompagnierobinson) - source: https://unsplash.com/photos/black-ford-on-board-KGQlg-K4VWA (Unsplash's own title: "Black ford on board")
+- img/shine-*.webp: photo by Amr Taha™ (https://unsplash.com/@amr_taha) - source: https://unsplash.com/photos/a-person-tying-a-pair-of-brown-shoes-PCdPvFQg1DA (Unsplash's own title: "A person tying a pair of brown shoes")
+
+Logo: original 'logo concept' SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).

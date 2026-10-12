@@ -1,0 +1,16 @@
+Image credits for the Sunshine Pet Spa preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/hero-*.webp: photo by Hayffield L (https://unsplash.com/@hayffield) - source: https://unsplash.com/photos/brown-pomeranian-wearing-pink-towel-ZVdZw2p08y4 (Unsplash's own title: "Brown pomeranian wearing pink towel")
+- img/pup-*.webp: photo by Karsten Winegeart (https://unsplash.com/@_karsten) - source: https://unsplash.com/photos/small-dog-in-banana-pajamas-Qb7D1xw28Co (Unsplash's own title: "Small dog in banana pajamas")
+- img/cat-*.webp: photo by Kabo (https://unsplash.com/@kabofoods) - source: https://unsplash.com/photos/orange-and-white-tabby-cat-ng9yenZfeuI (Unsplash's own title: "Orange and white tabby cat")
+- img/fluffy-*.webp: photo by Kabo (https://unsplash.com/@kabofoods) - source: https://unsplash.com/photos/orange-and-white-tabby-cat-NjWZ07sPEJE (Unsplash's own title: "Orange and white tabby cat")
+- img/poodle-*.webp: photo by Helena Lopes (https://unsplash.com/@helenalopesph) - source: https://unsplash.com/photos/white-poodle-on-grassy-park-lawn-PrUUun_Xq1Y (Unsplash's own title: "White poodle on grassy park lawn")
+- img/bath-*.webp: photo by Kristin Brown (https://unsplash.com/@kristinbrownphotography) - source: https://unsplash.com/photos/medium-coated-brown-dog-EpEvR6UHHP4 (Unsplash's own title: "Medium-coated brown dog")
+- img/brush-*.webp: photo by Reba Spike (https://unsplash.com/@rebaspike) - source: https://unsplash.com/photos/person-holding-pink-iphone-case-PEQIIwnIGdo (Unsplash's own title: "Person holding pink iphone case")
+
+Logo: original 'logo concept' SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).

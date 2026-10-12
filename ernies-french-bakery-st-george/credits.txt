@@ -1,0 +1,17 @@
+Image credits for the Ernie's The French Bakery and Deli preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/hero-*.webp: photo by Richard Bell (https://unsplash.com/@maplerockdesign) - source: https://unsplash.com/photos/a-pile-of-freshly-baked-croissants-on-a-wooden-surface-ikkTOvSkdEg (Unsplash's own title: "A pile of freshly baked croissants on a wooden surface")
+- img/baguette-*.webp: photo by Sergio Arze (https://unsplash.com/@sergich) - source: https://unsplash.com/photos/bread-cWXibBbXx44 (Unsplash's own title: "Bread")
+- img/quiche-*.webp: photo by David B Townsend (https://unsplash.com/@dbtownsend) - source: https://unsplash.com/photos/cooked-food-on-black-cooking-pan-lJLXlh7KT38 (Unsplash's own title: "Cooked food on black cooking pan")
+- img/espresso-*.webp: photo by Nathan Dumlao (https://unsplash.com/@nate_dumlao) - source: https://unsplash.com/photos/white-ceramic-cup-with-brown-liquid-dAYJfrtVjh0 (Unsplash's own title: "White ceramic cup with brown liquid")
+- img/beignet-*.webp: photo by Keesha's Kitchen (https://unsplash.com/@keeshasskitchen) - source: https://unsplash.com/photos/a-group-of-pastries-on-a-rack-UB17f-nMiLs (Unsplash's own title: "A group of pastries on a rack")
+- img/tray-*.webp: photo by Conor Brown (https://unsplash.com/@commonboxturtle) - source: https://unsplash.com/photos/a-bunch-of-croissants-that-are-on-a-table-sqkXyyj4WdE (Unsplash's own title: "A bunch of croissants that are on a table")
+- img/bread-*.webp: photo by David Todd McCarty (https://unsplash.com/@davidtoddmccarty) - source: https://unsplash.com/photos/freshly-baked-artisan-bread-on-a-wooden-cutting-board-qq-trOKqRpk (Unsplash's own title: "Freshly baked artisan bread on a wooden cutting board")
+- img/case-*.webp: photo by Peace Creative (https://unsplash.com/@peacecreativestudio) - source: https://unsplash.com/photos/a-display-case-filled-with-lots-of-different-types-of-pastries-pVY9k8pzTzM (Unsplash's own title: "A display case filled with lots of different types of pastries")
+
+Logo: original 'logo concept' SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).

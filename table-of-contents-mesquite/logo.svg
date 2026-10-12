@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="logo" width="200" height="200" viewBox="0 0 100 100" role="img" aria-label="Table Of Contents logo concept">
+<rect x="4" y="4" width="92" height="92" rx="22" fill="#23443a"/>
+<path d="M24 66V34c9-4 18-4 26 2 8-6 17-6 26-2v32c-9-4-18-4-26 2-8-6-17-6-26-2z" fill="none" stroke="#f6f1e7" stroke-width="3.2" stroke-linejoin="round"/>
+<path d="M50 36v32" stroke="#f6f1e7" stroke-width="2.4"/>
+<path d="M31 44h12M31 51h12M57 44h12M57 51h8" stroke="#c9963f" stroke-width="2.6" stroke-linecap="round"/>
+<path d="M44 26c0-4 4-4 4-8M52 26c0-4 4-4 4-8" fill="none" stroke="#c9963f" stroke-width="2.6" stroke-linecap="round"/>
+<path d="M50 68v12l-4-3-4 3V69" fill="#c9963f"/>
+</svg>
