@@ -1,0 +1,16 @@
+Image credits for the LV Nails & Spa preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/hero-*.webp: photo by Julia Schuwer (https://unsplash.com/@julia_2501) - source: https://unsplash.com/photos/womans-hand-with-ornate-nails-holding-a-delicate-plant-mciNDxIq4J0 (Unsplash's own title: "Woman's hand with ornate nails holding a delicate plant")
+- img/c1-*.webp: photo by Pablo Escobar (https://unsplash.com/@pabloescobar98) - source: https://unsplash.com/photos/a-woman-is-doing-a-manicure-on-a-childs-hand-zRkla85Xe2o (Unsplash's own title: "A woman is doing a manicure on a child's hand")
+- img/c2-*.webp: photo by Konstantin Shmatov (https://unsplash.com/@shmatov) - source: https://unsplash.com/photos/a-womans-feet-with-red-nail-polish-on-them-3sBC5KuClWE (Unsplash's own title: "Feet with fresh red pedicure polish")
+- img/c3-*.webp: photo by Margarita Yutsaytis (https://unsplash.com/@marsnails) - source: https://unsplash.com/photos/womans-hand-with-blue-and-white-ombre-nails-olHWqqK7OVw (Unsplash's own title: "Woman's hand with blue and white ombre nails")
+- img/c4-*.webp: photo by de Aura (https://unsplash.com/@deaura2026) - source: https://unsplash.com/photos/womans-hands-with-metallic-and-jeweled-stiletto-nails-4aEkXAhkAVQ (Unsplash's own title: "Woman's hands with metallic and jeweled stiletto nails")
+- img/story-*.webp: photo by Giorgio Trovato (https://unsplash.com/@giorgiotrovato) - source: https://unsplash.com/photos/a-woman-getting-her-nails-done-at-a-nail-salon-gb6gtiTZKB8 (Unsplash's own title: "A woman getting her nails done at a nail salon")
+- img/band-*.webp: photo by H&CO (https://unsplash.com/@hngstrm) - source: https://unsplash.com/photos/nail-polish-bottles-on-gold-shelves-OpjlRo-31SI (Unsplash's own title: "Nail polish bottles on gold shelves")
+
+Logo: original logo concept SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).

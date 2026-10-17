@@ -1,0 +1,16 @@
+Image credits for the May's Alterations and Tailoring preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/m0-*.webp: photo by Alexander Mass (https://unsplash.com/@alexandermassph) - source: https://unsplash.com/photos/a-white-wedding-dress-hangs-by-a-large-window-XMQgIExRwM0 (Unsplash's own title: "A white wedding dress hangs by a large window")
+- img/m1-*.webp: photo by Anna Logacheva (https://unsplash.com/@snejinka) - source: https://unsplash.com/photos/woman-in-purple-strapless-wedding-dress-leaning-on-wall-d00FZ5Yfhxc (Unsplash's own title: "Woman in purple strapless wedding dress leaning on wall")
+- img/m2-*.webp: photo by Bozhin Karaivanov (https://unsplash.com/@bkaraivanov) - source: https://unsplash.com/photos/red-blue-and-white-thread-spool-K6cC1D-_k_g (Unsplash's own title: "Red blue and white thread spool")
+- img/m3-*.webp: photo by Omar Alrawi (https://unsplash.com/@omaralrawi) - source: https://unsplash.com/photos/person-using-sewing-machine-in-tilt-shift-lens-Dq8XPlyHmoI (Unsplash's own title: "Person using sewing machine in tilt shift lens")
+- img/side-*.webp: photo by Jonathan Borba (https://unsplash.com/@jonathanborba) - source: https://unsplash.com/photos/woman-in-white-floral-wedding-dress--shn8ecaH2w (Unsplash's own title: "Woman in white floral wedding dress")
+- img/story-*.webp: photo by Erwin Bosman (https://unsplash.com/@erwinbosman) - source: https://unsplash.com/photos/person-cutting-paper-sewing-pattern-oTvBFTB0wow (Unsplash's own title: "Person cutting paper sewing pattern")
+- img/band-*.webp: photo by Héctor J. Rivas (https://unsplash.com/@hjrc33) - source: https://unsplash.com/photos/assorted-color-thread-lot-87hFrPk3V-s (Unsplash's own title: "Assorted-color thread lot")
+
+Logo: original logo concept SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).

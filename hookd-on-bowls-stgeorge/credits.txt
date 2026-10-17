@@ -1,0 +1,16 @@
+Image credits for the Hook'd on Bowls preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/hero-*.webp: photo by Zayed Ahmed Zadu (https://unsplash.com/@zayed_ahmed_zadu) - source: https://unsplash.com/photos/fried-rice-bowl-with-glazed-chicken-ZK8kPP8I4rY (Unsplash's own title: "Fried rice bowl with glazed chicken")
+- img/c1-*.webp: photo by Fernando Aguilar (https://unsplash.com/@feraguilar) - source: https://unsplash.com/photos/a-red-plate-topped-with-rice-and-meat-ZhX8gMtQjwc (Unsplash's own title: "A red plate topped with rice and meat")
+- img/c2-*.webp: photo by Kawê Rodrigues (https://unsplash.com/@kawerodriguess) - source: https://unsplash.com/photos/a-bowl-of-noodles-and-vegetables-on-a-cutting-board-zYi4wOI6zyo (Unsplash's own title: "A bowl of noodles and vegetables on a cutting board")
+- img/c3-*.webp: photo by Jay Nlper (https://unsplash.com/@itworkonline) - source: https://unsplash.com/photos/white-ceramic-plate-with-rice-and-stainless-steel-fork-XciY4hwqnNk (Unsplash's own title: "White ceramic plate with rice and stainless steel fork")
+- img/c4-*.webp: photo by Georgi Kalaydzhiev (https://unsplash.com/@jorok) - source: https://unsplash.com/photos/cook-preparing-street-food-in-new-york-CG5YNB8zI60 (Unsplash's own title: "Cook preparing street food in new york")
+- img/story-*.webp: photo by micheile henderson (https://unsplash.com/@micheile) - source: https://unsplash.com/photos/woman-selling-inside-store-during-daytime-7NFwwp-vZk8 (Unsplash's own title: "Woman selling inside store during daytime")
+- img/band-*.webp: photo by Javier Esteban (https://unsplash.com/@javiestebaan) - source: https://unsplash.com/photos/a-bowl-of-ramen-with-chopsticks-sticking-out-of-it-HdbC7DFL49M (Unsplash's own title: "A bowl of ramen with chopsticks sticking out of it")
+
+Logo: original logo concept SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).

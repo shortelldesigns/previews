@@ -1,0 +1,14 @@
+Image credits for the The Lab Studio preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/s0-*.webp: photo by Salah Regouane (https://unsplash.com/@salaheregouane) - source: https://unsplash.com/photos/a-close-up-of-a-person-cutting-another-persons-hair-MRCdF3qUbp0 (Unsplash's own title: "A close up of a person cutting another persons hair")
+- img/s1-*.webp: photo by Redd Francisco (https://unsplash.com/@reddfrancisco) - source: https://unsplash.com/photos/a-man-getting-his-hair-cut-by-a-hair-stylist-PDDvMlScofU (Unsplash's own title: "A man getting his hair cut by a hair stylist")
+- img/s2-*.webp: photo by Victor Sirbu (https://unsplash.com/@victorsirbu04) - source: https://unsplash.com/photos/a-close-up-of-a-person-cutting-a-persons-eye-kA74I2XMiSQ (Unsplash's own title: "A close up of a person cutting a persons eye")
+- img/story-*.webp: photo by Mitchell Orr (https://unsplash.com/@mitchorr) - source: https://unsplash.com/photos/a-man-getting-his-hair-cut-by-a-barber-xO8OpsasyZA (Unsplash's own title: "A man getting his hair cut by a barber")
+- img/band-*.webp: photo by Joshua Lawrence (https://unsplash.com/@orangetiephotography) - source: https://unsplash.com/photos/black-and-silver-barber-chair-dU6eE_j2My8 (Unsplash's own title: "Black and silver barber chair")
+
+Logo: original logo concept SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).
