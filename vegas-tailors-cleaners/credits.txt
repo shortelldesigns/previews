@@ -1,0 +1,13 @@
+Image credits for the Vegas Tailors & Cleaners preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/hero-*.webp: photo by Jwill14 (https://unsplash.com/@jwill14) - source: https://unsplash.com/photos/sewing-machine-grey-scale-photography-and-close-up-photography-tabzu_kbVs0 (Unsplash's own title: "sewing machine grey-scale photography and close-up photography")
+- img/side-*.webp: photo by Dapperprofessional (https://unsplash.com/@dapperprofessional) - source: https://unsplash.com/photos/man-in-blue-suit-jacket-and-black-pants-NxtxmmHc2OE (Unsplash's own title: "man in blue suit jacket and black pants")
+- img/story-*.webp: photo by Stamatiamalai (https://unsplash.com/@stamatiamalai) - source: https://unsplash.com/photos/man-measuring-woman-for-clothing-alteration-P-Jp5mJJap0 (Unsplash's own title: "Man measuring woman for clothing alteration")
+- img/band-*.webp: photo by Mohamadkhosravi (https://unsplash.com/@mohamadkhosravi) - source: https://unsplash.com/photos/man-in-black-suit-jacket-and-black-dress-pants-YGJ9vfuwyUg (Unsplash's own title: "man in black suit jacket and black dress pants")
+
+Logo: original logo concept SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).

@@ -1,0 +1,14 @@
+Image credits for the Ultimate Detailing preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/s0-*.webp: photo by Luaybarani (https://unsplash.com/@luaybarani) - source: https://unsplash.com/photos/detailer-cleaning-the-dashboard-of-a-classic-car-5SmPnmCjwcU (Unsplash's own title: "Detailer cleaning the dashboard of a classic car")
+- img/s1-*.webp: photo by Painchaud12 (https://unsplash.com/@painchaud12) - source: https://unsplash.com/photos/a-man-washing-a-red-sports-car-in-a-garage-MTeoQOv_F14 (Unsplash's own title: "a man washing a red sports car in a garage")
+- img/s2-*.webp: photo by Sanmeet (https://unsplash.com/@sanmeet) - source: https://unsplash.com/photos/blue-sports-car-rear-taillight-dveDkZQJVjQ (Unsplash's own title: "The rear taillight and carbon fiber spoiler of a blue sports car")
+- img/story-*.webp: photo by Avenir Visuals (https://unsplash.com/@avenir_visuals) - source: https://unsplash.com/photos/a-dark-suv-covered-in-soap-at-a-car-wash-SyvBZqordVQ (Unsplash's own title: "A dark suv covered in soap at a car wash")
+- img/band-*.webp: photo by Brodus K (https://unsplash.com/@brodus_k) - source: https://unsplash.com/photos/a-motor-home-parked-in-the-grass-near-some-trees-0b0_BUdtdAg (Unsplash's own title: "a motor home parked in the grass near some trees")
+
+Logo: original logo concept SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).

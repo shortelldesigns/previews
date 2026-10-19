@@ -1,0 +1,14 @@
+Image credits for the GraphX Signs and Services preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/s0-*.webp: photo by Bamin (https://unsplash.com/@bamin) - source: https://unsplash.com/photos/white-and-black-wooden-number-sign--YiTdas-O1c (Unsplash's own title: "white and black wooden number sign")
+- img/s1-*.webp: photo by Framesforyourheart (https://unsplash.com/@framesforyourheart) - source: https://unsplash.com/photos/a-bunch-of-wooden-signs-on-a-beach-dfuMOMYhSqA (Unsplash's own title: "a bunch of wooden signs on a beach")
+- img/s2-*.webp: photo by Arcreates (https://unsplash.com/@arcreates) - source: https://unsplash.com/photos/close-up-of-a-screen-printing-machine-in-a-workshop-jLeyoMEVKG4 (Unsplash's own title: "Close-up of a screen printing machine in a workshop")
+- img/story-*.webp: photo by Ddography (https://unsplash.com/@ddography) - source: https://unsplash.com/photos/a-man-in-a-white-shirt-and-white-gloves-0y3DOYVP2bs (Unsplash's own title: "a man in a white shirt and white gloves")
+- img/band-*.webp: photo by Declansun (https://unsplash.com/@declansun) - source: https://unsplash.com/photos/a-restaurant-sign-hanging-from-the-side-of-a-building-rG5YAWy21cg (Unsplash's own title: "a restaurant sign hanging from the side of a building")
+
+Logo: original logo concept SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).

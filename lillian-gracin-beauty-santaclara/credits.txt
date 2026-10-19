@@ -1,0 +1,19 @@
+Image credits for the Lillian Gracin Beauty preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/m0-*.webp: photo by Armedshutter (https://unsplash.com/@armedshutter) - source: https://unsplash.com/photos/grayscale-photography-of-woman-wearing-long-sleeved-shirt-UqT55tGBqzI (Unsplash's own title: "grayscale photography of woman wearing long-sleeved shirt")
+- img/m1-*.webp: photo by Jessiedeexx (https://unsplash.com/@jessiedeexx) - source: https://unsplash.com/photos/person-wearing-black-top-W6cwaL7PMSw (Unsplash's own title: "person wearing black top")
+- img/m2-*.webp: photo by Element5Digital (https://unsplash.com/@element5digital) - source: https://unsplash.com/photos/woman-in-white-long-sleeved-shirt-standing-in-front-of-pink-wall-WCPg9ROZbM0 (Unsplash's own title: "woman in white long-sleeved shirt standing in front of pink wall")
+- img/m3-*.webp: photo by Norahutton (https://unsplash.com/@norahutton) - source: https://unsplash.com/photos/topless-woman-with-blonde-hair-N57BXCt7LDU (Unsplash's own title: "topless woman with blonde hair")
+- img/c1-*.webp: photo by Armedshutter (https://unsplash.com/@armedshutter) - source: https://unsplash.com/photos/woman-wearing-yellow-halter-top-whipping-hair-MLDQVQL_4_0 (Unsplash's own title: "woman wearing yellow halter top whipping hair")
+- img/c2-*.webp: photo by Wolfart32 (https://unsplash.com/@wolfart32) - source: https://unsplash.com/photos/two-women-collaborating-at-a-desk-with-fabric-swatches-ITlbzevlInQ (Unsplash's own title: "Two women collaborating at a desk with fabric swatches")
+- img/c3-*.webp: photo by Yash Mevawala (https://unsplash.com/@yash_mevawala) - source: https://unsplash.com/photos/woman-covering-her-face-with-gray-textile-QkFz4YmMpT0 (Unsplash's own title: "woman covering her face with gray textile")
+- img/c4-*.webp: photo by Vimarco (https://unsplash.com/@vimarco) - source: https://unsplash.com/photos/woman-with-pink-lipstick-and-white-shirt-ajDUxve6clA (Unsplash's own title: "woman with pink lipstick and white shirt")
+- img/story-*.webp: photo by Ernestonorman (https://unsplash.com/@ernestonorman) - source: https://unsplash.com/photos/closeup-photo-of-a-womans-red-eye-R5CX8XDQLV0 (Unsplash's own title: "closeup photo of a woman's red eye")
+- img/band-*.webp: photo by Victorsirbu04 (https://unsplash.com/@victorsirbu04) - source: https://unsplash.com/photos/a-close-up-of-a-person-cutting-another-persons-hair-G5JpTUgLDQ4 (Unsplash's own title: "A close up of a person cutting another persons hair")
+
+Logo: original logo concept SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).
