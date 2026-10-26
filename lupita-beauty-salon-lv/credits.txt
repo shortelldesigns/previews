@@ -1,0 +1,19 @@
+Image credits for the Lupita Beauty Salon preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/m0-*.webp: photo by acareimon (https://unsplash.com/@acareimon) - source: https://unsplash.com/photos/a-man-in-a-black-mask-and-a-woman-with-blonde-hair-Yi4JMbqI4bk (Unsplash's own title: "Stylist curling a client's long hair")
+- img/m1-*.webp: photo by deaura2026 (https://unsplash.com/@deaura2026) - source: https://unsplash.com/photos/womans-hands-with-metallic-and-jeweled-stiletto-nails-4aEkXAhkAVQ (Unsplash's own title: "Woman's hands with metallic and jeweled stiletto nails")
+- img/m2-*.webp: photo by benyamin_bohlouli (https://unsplash.com/@benyamin_bohlouli) - source: https://unsplash.com/photos/modern-hair-salon-with-black-chairs-LGXN4OSQSa4 (Unsplash's own title: "Modern hair salon with black chairs")
+- img/m3-*.webp: photo by kalpa_mahagamage (https://unsplash.com/@kalpa_mahagamage) - source: https://unsplash.com/photos/a-woman-getting-her-make-up-done-with-a-brush-I3y-aJ4DWng (Unsplash's own title: "Eyelash and makeup application")
+- img/c1-*.webp: photo by awcreativeut (https://unsplash.com/@awcreativeut) - source: https://unsplash.com/photos/hairstylist-blow-drying-client-hair-FkAZqQJTbXM (Unsplash's own title: "Hairstylist blow drying client hair")
+- img/c2-*.webp: photo by acareimon (https://unsplash.com/@acareimon) - source: https://unsplash.com/photos/a-woman-with-long-hair-standing-in-a-kitchen-netaAK35IUc (Unsplash's own title: "Long wavy colored hair")
+- img/c3-*.webp: photo by pabloescobar98 (https://unsplash.com/@pabloescobar98) - source: https://unsplash.com/photos/a-woman-is-doing-a-manicure-on-a-childs-hand-zRkla85Xe2o (Unsplash's own title: "Manicure in progress")
+- img/c4-*.webp: photo by alena_horoshaya (https://unsplash.com/@alena_horoshaya) - source: https://unsplash.com/photos/a-woman-getting-her-makeup-done-by-another-woman-H3bUio5s0g0 (Unsplash's own title: "A woman getting her makeup done by another woman")
+- img/story-*.webp: photo by alexandermassph (https://unsplash.com/@alexandermassph) - source: https://unsplash.com/photos/hairstylist-creating-an-updo-for-a-seated-client-g0cSOCHaHiY (Unsplash's own title: "Hairstylist creating an updo for a seated client")
+- img/band-*.webp: photo by crystalclark252 (https://unsplash.com/@crystalclark252) - source: https://unsplash.com/photos/a-close-up-of-a-person-with-wavy-hair-z50YODyJU4c (Unsplash's own title: "A close up of a person with wavy hair")
+
+Logo: original logo concept SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).

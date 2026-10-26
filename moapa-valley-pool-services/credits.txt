@@ -1,0 +1,13 @@
+Image credits for the Moapa Valley Pool Services preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/hero-*.webp: photo by asd32123 (https://unsplash.com/@asd32123) - source: https://unsplash.com/photos/white-house-with-a-backyard-swimming-pool-and-deck-8iDJxbmx2Bc (Unsplash's own title: "White house with a backyard swimming pool and deck")
+- img/side-*.webp: photo by yah_wang (https://unsplash.com/@yah_wang) - source: https://unsplash.com/photos/a-robotic-pool-cleaner-is-working-underwater-uWB32BEOnuw (Unsplash's own title: "A robotic pool cleaner is working underwater")
+- img/story-*.webp: photo by enisyavuz (https://unsplash.com/@enisyavuz) - source: https://unsplash.com/photos/stainless-steel-railings-on-swimming-pool-JhcQHSBMask (Unsplash's own title: "Stainless steel railings on swimming pool")
+- img/band-*.webp: photo by leo_visions_ (https://unsplash.com/@leo_visions_) - source: https://unsplash.com/photos/a-backyard-with-a-swimming-pool-and-a-pergolated-patio-0N0hFVtwqIY (Unsplash's own title: "A backyard with a swimming pool and a pergolated patio")
+
+Logo: original logo concept SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).

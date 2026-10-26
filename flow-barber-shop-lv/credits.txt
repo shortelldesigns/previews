@@ -1,0 +1,13 @@
+Image credits for the Flow Barber Shop preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/hero-*.webp: photo by onatecan (https://unsplash.com/@onatecan) - source: https://unsplash.com/photos/black-leather-barber-chair-near-brown-brick-wall-EW_rqoSdDes (Unsplash's own title: "Black leather barber chair near brown brick wall")
+- img/side-*.webp: photo by agustinfernandez (https://unsplash.com/@agustinfernandez) - source: https://unsplash.com/photos/man-in-white-dress-shirt-holding-black-dslr-camera-m21YynrKdsw (Unsplash's own title: "Barber trimming a client with clippers")
+- img/story-*.webp: photo by mitchorr (https://unsplash.com/@mitchorr) - source: https://unsplash.com/photos/a-man-getting-his-hair-cut-by-a-barber-xO8OpsasyZA (Unsplash's own title: "A man getting his hair cut by a barber")
+- img/band-*.webp: photo by agustinfernandez (https://unsplash.com/@agustinfernandez) - source: https://unsplash.com/photos/yellow-and-black-truck-scale-model-Znyjl9pbaUs (Unsplash's own title: "Rows of barber clippers on a wood counter")
+
+Logo: original logo concept SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).

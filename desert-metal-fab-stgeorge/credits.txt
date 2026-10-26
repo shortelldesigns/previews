@@ -1,0 +1,13 @@
+Image credits for the Desert Metal Fab preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/hero-*.webp: photo by benjawede (https://unsplash.com/@benjawede) - source: https://unsplash.com/photos/man-in-black-jacket-and-pants-standing-on-train-station-bzzSg8hTKKY (Unsplash's own title: "Welder working with bright sparks")
+- img/side-*.webp: photo by subworks (https://unsplash.com/@subworks) - source: https://unsplash.com/photos/a-man-working-on-a-piece-of-metal-_otYBu7UZLc (Unsplash's own title: "Fabricator grinding metal in a shop")
+- img/story-*.webp: photo by sydmills (https://unsplash.com/@sydmills) - source: https://unsplash.com/photos/man-in-blue-t-shirt-and-brown-shorts-wearing-black-helmet-sPl7FgBalxI (Unsplash's own title: "Welder in a helmet welding a part")
+- img/band-*.webp: photo by akai69 (https://unsplash.com/@akai69) - source: https://unsplash.com/photos/plasma-cutter-slicing-metal-plate-3cyGeHWW7Hg (Unsplash's own title: "Plasma cutter slicing metal plate")
+
+Logo: original logo concept SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).
