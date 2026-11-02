@@ -1,0 +1,13 @@
+Image credits for the Virgin Valley Golf Carts preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/hero-*.webp: photo by starev (https://unsplash.com/@starev) - source: https://unsplash.com/photos/two-golf-carts-one-grey-and-one-blue-parked-outdoors-Ie9HfzrBOK0 (Unsplash's own title: "Two golf carts, one grey and one blue, parked outdoors")
+- img/side-*.webp: photo by zihao_wang (https://unsplash.com/@zihao_wang) - source: https://unsplash.com/photos/a-golf-cart-sits-on-a-course-bC5sDwO4M0c (Unsplash's own title: "A golf cart sits on a course")
+- img/story-*.webp: photo by starev (https://unsplash.com/@starev) - source: https://unsplash.com/photos/pugs-riding-in-a-golf-cart-among-palm-trees-3becYnIehv8 (Unsplash's own title: "Pugs riding in a golf cart among palm trees")
+- img/band-*.webp: photo by robert2301 (https://unsplash.com/@robert2301) - source: https://unsplash.com/photos/a-golf-course-with-a-lake-and-mountains-in-the-background-qsOlzJgdCeY (Unsplash's own title: "A golf course with a lake and mountains in the background")
+
+Logo: original logo concept SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).

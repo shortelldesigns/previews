@@ -1,0 +1,13 @@
+Image credits for the Jose's Transmissions preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/hero-*.webp: photo by heyquilia (https://unsplash.com/@heyquilia) - source: https://unsplash.com/photos/man-holding-open-wide-car-trunk-2K_-PG95qlI (Unsplash's own title: "Man holding open-wide car trunk")
+- img/side-*.webp: photo by adempercem (https://unsplash.com/@adempercem) - source: https://unsplash.com/photos/close-up-view-of-a-complex-engine-mechanism-X0O5qtzQ91o (Unsplash's own title: "Close-up view of a complex engine mechanism")
+- img/story-*.webp: photo by stenrademaker (https://unsplash.com/@stenrademaker) - source: https://unsplash.com/photos/mechanic-working-on-car-engine-UZUzvJEvKnI (Unsplash's own title: "Mechanic working on car engine")
+- img/band-*.webp: photo by hdbernd (https://unsplash.com/@hdbernd) - source: https://unsplash.com/photos/intricate-metal-sculpture-made-of-gears-and-machine-parts-hhX001UUaL8 (Unsplash's own title: "Intricate metal sculpture made of gears and machine parts")
+
+Logo: original logo concept SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).

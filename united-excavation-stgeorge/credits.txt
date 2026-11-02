@@ -1,0 +1,13 @@
+Image credits for the United Excavation preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/hero-*.webp: photo by built (https://unsplash.com/@built) - source: https://unsplash.com/photos/a-yellow-excavator-on-a-hill-with-a-blue-sky-in-the-background-zmW-UG2OX_M (Unsplash's own title: "A yellow excavator on a hill with a blue sky in the background")
+- img/side-*.webp: photo by jiorjegfirjg (https://unsplash.com/@jiorjegfirjg) - source: https://unsplash.com/photos/yellow-excavator-digging-dirt-against-a-blue-sky-OyI1n2iR52c (Unsplash's own title: "Yellow excavator digging dirt against a blue sky")
+- img/story-*.webp: photo by bermixstudio (https://unsplash.com/@bermixstudio) - source: https://unsplash.com/photos/a-tractor-that-is-sitting-in-the-dirt-XM642V2dLA4 (Unsplash's own title: "A tractor that is sitting in the dirt")
+- img/band-*.webp: photo by basitxd (https://unsplash.com/@basitxd) - source: https://unsplash.com/photos/a-yellow-excavator-in-a-large-open-pit-1O_HNWeY0O4 (Unsplash's own title: "A yellow excavator in a large open pit")
+
+Logo: original logo concept SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).

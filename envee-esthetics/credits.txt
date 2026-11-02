@@ -1,0 +1,13 @@
+Image credits for the Envee Esthetics preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/hero-*.webp: photo by lookphoto (https://unsplash.com/@lookphoto) - source: https://unsplash.com/photos/a-woman-getting-a-facial-peel-from-a-doctor-HtXyytr9304 (Unsplash's own title: "A woman getting a facial peel from a doctor")
+- img/side-*.webp: photo by contentpixie (https://unsplash.com/@contentpixie) - source: https://unsplash.com/photos/silver-spoon-and-fork-on-white-surface-0z4h9qneDMA (Unsplash's own title: "Silver spoon and fork on white surface")
+- img/story-*.webp: photo by kmile_ch (https://unsplash.com/@kmile_ch) - source: https://unsplash.com/photos/white-plastic-pump-bottle-beside-pink-tulips-and-gray-towel-VxAwTeiqDao (Unsplash's own title: "White plastic pump bottle beside pink tulips and gray towel")
+- img/band-*.webp: photo by eladepure (https://unsplash.com/@eladepure) - source: https://unsplash.com/photos/skincare-products-arranged-on-a-wooden-table-dFubjAPlWfI (Unsplash's own title: "Skincare products arranged on a wooden table")
+
+Logo: original logo concept SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).
