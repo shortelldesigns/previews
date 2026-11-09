@@ -1,0 +1,13 @@
+Image credits for the Generations Daycare preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/hero-*.webp: photo by rfieldss (https://unsplash.com/@rfieldss) - source: https://unsplash.com/photos/boy-playing-cube-on-white-wooden-table-Xz7MMD5tZwA (Unsplash's own title: "Boy playing cube on white wooden table")
+- img/side-*.webp: photo by shs521 (https://unsplash.com/@shs521) - source: https://unsplash.com/photos/assorted-color-alphabet-cube-toy-lot-H7SCRwU1aiM (Unsplash's own title: "Assorted-color alphabet cube toy lot")
+- img/story-*.webp: photo by taylorheeryphoto (https://unsplash.com/@taylorheeryphoto) - source: https://unsplash.com/photos/child-making-rainbow-paper-craft-g7dUm6lRvtQ (Unsplash's own title: "Child making rainbow paper craft")
+- img/band-*.webp: photo by artem_kniaz (https://unsplash.com/@artem_kniaz) - source: https://unsplash.com/photos/children-playing-with-colorful-parachute-on-grass-DqgMHzeio7g (Unsplash's own title: "Children playing with colorful parachute on grass")
+
+Logo: original logo concept SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).

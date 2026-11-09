@@ -1,0 +1,13 @@
+Image credits for the White Hive Coffee preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/hero-*.webp: photo by timmossholder (https://unsplash.com/@timmossholder) - source: https://unsplash.com/photos/coffee-roasting-in-playa-del-carmen-YC6RVdoTtIk (Unsplash's own title: "Coffee roasting in Playa del Carmen")
+- img/side-*.webp: photo by miloezger (https://unsplash.com/@miloezger) - source: https://unsplash.com/photos/coffee-beans-on-gray-steel-wok-rKYRJu0n06Y (Unsplash's own title: "Coffee beans on gray steel wok")
+- img/story-*.webp: photo by gregoryallen (https://unsplash.com/@gregoryallen) - source: https://unsplash.com/photos/time-lapse-photography-of-coffee-beans-grind-Jmc0PORTQ-A (Unsplash's own title: "Time lapse photography of coffee beans grind")
+- img/band-*.webp: photo by alexas_fotos (https://unsplash.com/@alexas_fotos) - source: https://unsplash.com/photos/dark-roasted-coffee-beans-scattered-across-a-surface-a6bxlKmel20 (Unsplash's own title: "Dark roasted coffee beans scattered across a surface")
+
+Logo: original logo concept SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).

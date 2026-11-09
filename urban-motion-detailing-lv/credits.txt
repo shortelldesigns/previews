@@ -1,0 +1,13 @@
+Image credits for the Urban Motion Detailing preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/hero-*.webp: photo by cmreflections (https://unsplash.com/@cmreflections) - source: https://unsplash.com/photos/grayscale-photo-of-black-car-Ng3xrviPrhk (Unsplash's own title: "Grayscale photo of black car")
+- img/side-*.webp: photo by zacherynielson (https://unsplash.com/@zacherynielson) - source: https://unsplash.com/photos/a-man-is-working-on-a-car-radio-M5lsL2E4ot0 (Unsplash's own title: "A man is working on a car radio")
+- img/story-*.webp: photo by wallpaperbysaad (https://unsplash.com/@wallpaperbysaad) - source: https://unsplash.com/photos/a-person-cleaning-a-car-with-a-yellow-cloth-_vmBjTG5L1g (Unsplash's own title: "A person cleaning a car with a yellow cloth")
+- img/band-*.webp: photo by villekaisla (https://unsplash.com/@villekaisla) - source: https://unsplash.com/photos/parked-black-car-HNCSCpWrVJA (Unsplash's own title: "Parked black car")
+
+Logo: original logo concept SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).

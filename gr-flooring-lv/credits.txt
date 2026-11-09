@@ -1,0 +1,13 @@
+Image credits for the G.R. Flooring preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/hero-*.webp: photo by halacious (https://unsplash.com/@halacious) - source: https://unsplash.com/photos/brown-wooden-floor-JL-Wz38iawg (Unsplash's own title: "Brown wooden floor")
+- img/side-*.webp: photo by ernys (https://unsplash.com/@ernys) - source: https://unsplash.com/photos/man-in-black-t-shirt-and-pants-sitting-on-floor-EO_KlX-A6SY (Unsplash's own title: "Man in black t-shirt and pants sitting on floor")
+- img/story-*.webp: photo by charlesdeluvio (https://unsplash.com/@charlesdeluvio) - source: https://unsplash.com/photos/person-pressing-white-wall-c2thq3SXJiA (Unsplash's own title: "Person pressing white wall")
+- img/band-*.webp: photo by claybanks (https://unsplash.com/@claybanks) - source: https://unsplash.com/photos/modern-dining-and-living-area-with-large-windows-y8j0gmhtS-4 (Unsplash's own title: "Modern dining and living area with large windows")
+
+Logo: original logo concept SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).
