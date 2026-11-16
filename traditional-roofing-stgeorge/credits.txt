@@ -1,0 +1,13 @@
+Image credits for the Traditional Roofing Company preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/hero-*.webp: photo by tish_harris (https://unsplash.com/@tish_harris) - source: https://unsplash.com/photos/brown-roof-tiles-during-daytime-D_R405s8tUM (Unsplash's own title: "Brown roof tiles during daytime")
+- img/side-*.webp: photo by razesolar (https://unsplash.com/@razesolar) - source: https://unsplash.com/photos/a-man-in-a-yellow-shirt-is-working-on-a-roof-eFOkg4ZMiBs (Unsplash's own title: "A man in a yellow shirt is working on a roof")
+- img/story-*.webp: photo by divaris (https://unsplash.com/@divaris) - source: https://unsplash.com/photos/house-under-construction-with-grey-roof-mxpYYyQ-UIA (Unsplash's own title: "House under construction with grey roof")
+- img/band-*.webp: photo by mitchel3uo (https://unsplash.com/@mitchel3uo) - source: https://unsplash.com/photos/brown-roof-tiles-in-close-up-photography-Ng4xt7m9bDA (Unsplash's own title: "Brown roof tiles in close up photography")
+
+Logo: original logo concept SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).

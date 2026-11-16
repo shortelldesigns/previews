@@ -1,0 +1,12 @@
+Image credits for the NV Dispatching Services, LLC preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/hero-*.webp: photo by ftodne (https://unsplash.com/@ftodne) - source: https://unsplash.com/photos/a-black-semi-truck-drives-down-a-rural-road-3FuQylRWQeg (Unsplash's own title: "A black semi-truck drives down a rural road")
+- img/story-*.webp: photo by cdc (https://unsplash.com/@cdc) - source: https://unsplash.com/photos/man-in-black-and-white-checkered-dress-shirt-using-computer-_XLJy3h77cw (Unsplash's own title: "Man in black and white checkered dress shirt using computer")
+- img/band-*.webp: photo by tirynelson (https://unsplash.com/@tirynelson) - source: https://unsplash.com/photos/white-and-blue-truck-on-road-during-daytime-h-kD4142VIQ (Unsplash's own title: "White and blue truck on road during daytime")
+
+Logo: original logo concept SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).

@@ -1,0 +1,13 @@
+Image credits for the Far River Studio preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/hero-*.webp: photo by caught_in_joy (https://unsplash.com/@caught_in_joy) - source: https://unsplash.com/photos/recording-studio-with-guitars-and-console-ptVBlniJi50 (Unsplash's own title: "Recording studio with guitars and console")
+- img/side-*.webp: photo by skywarden (https://unsplash.com/@skywarden) - source: https://unsplash.com/photos/marshall-logo-d7iHitiPPog (Unsplash's own title: "Marshall logo")
+- img/story-*.webp: photo by t_mac (https://unsplash.com/@t_mac) - source: https://unsplash.com/photos/a-microphone-with-a-red-curtain-behind-it-pg_bgl0qk9o (Unsplash's own title: "A microphone with a red curtain behind it")
+- img/band-*.webp: photo by gabebarletta (https://unsplash.com/@gabebarletta) - source: https://unsplash.com/photos/selective-focus-photography-of-red-drum-set--lWcaUVJ39Y (Unsplash's own title: "Selective focus photography of red drum set")
+
+Logo: original logo concept SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).

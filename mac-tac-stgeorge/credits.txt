@@ -1,0 +1,13 @@
+Image credits for the MAC TAC preview concept (Shortell Designs)
+
+All photos are from Unsplash and used under the Unsplash License (free for commercial and non-commercial use, no permission needed): https://unsplash.com/license
+They are generic stock images for illustration only and do not depict this business, its staff, or its work.
+Each image was downloaded from images.unsplash.com, cropped and re-encoded to WebP.
+
+- img/hero-*.webp: photo by catoutdoors (https://unsplash.com/@catoutdoors) - source: https://unsplash.com/photos/rifle-maintenance-kit-on-wooden-workbench-03PMUt1BaMc (Unsplash's own title: "Rifle maintenance kit on wooden workbench")
+- img/side-*.webp: photo by catoutdoors (https://unsplash.com/@catoutdoors) - source: https://unsplash.com/photos/disassembled-rifle-parts-and-cleaning-supplies-6EChwR1rCxE (Unsplash's own title: "Disassembled rifle parts and cleaning supplies")
+- img/story-*.webp: photo by omerhaktan (https://unsplash.com/@omerhaktan) - source: https://unsplash.com/photos/a-man-in-a-white-coverall-spraying-water-with-a-hose-nwNQEydv8BA (Unsplash's own title: "A man in a white coverall spraying water with a hose")
+- img/band-*.webp: photo by planetairbrush (https://unsplash.com/@planetairbrush) - source: https://unsplash.com/photos/chrome-airbrush-with-liquid-being-poured-uLfY0CVRcqk (Unsplash's own title: "Chrome airbrush with liquid being poured")
+
+Logo: original logo concept SVG drawn by Shortell Designs for this preview. It is not the business's logo.
+Fonts: Google Fonts (SIL Open Font License).
